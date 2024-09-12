@@ -12,7 +12,7 @@ Esta é uma solução para o [Desafio da página de receitas no Frontend Mentor]
 ### Link
 
 
-- URL do site ativo: [link aqui](https://andersonf-dev.github.io/recipe-page-main/)
+- URL do site ativo: [link aqui](https://andersonf-dev.github.io/social-links-profile-main/)
 
 
 
