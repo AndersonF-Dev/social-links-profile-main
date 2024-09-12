@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+html {
+    font-family: "Inter", sans-serif;
+    background-color: hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 100%);
+}
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.sicial-conteiner {
+    background-color: hsl(0, 0%, 12%);
+    min-width: 400px;
+    min-height: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    margin-top: 30px;
+    border-radius: 50%;
+}
+h1 {
+    margin: 10px;
+}
+
+.text-cidade {
+    font-size: 14px;
+    text-align: center;
+    margin: 10px 0px 20px 0px;
+    color: hsl(75, 94%, 57%);
+}
+
+.conteiner-links p {
+    margin-bottom: 20px;
+    font-size: 14px;
+    
+}
+.conteiner-links ul li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0px 25px 0px;
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    list-style-type: none;
+    font-weight: 800;
+    border-radius: 10px;
+    min-width: 300px;
+    min-height: 40px;
+    transition: 0.3s ease-in-out;
+    
+}
+.conteiner-links a {
+    text-decoration: none;
+}
+.conteiner-links ul li:hover {
+    background-color: hsl(75, 94%, 57%);
+    color:  hsl(0, 0%, 8%);
+    text-decoration: none;
+}
+
